@@ -1,7 +1,7 @@
 {
   "name": "discord_bot",
   "version": "2.0.0",
-  "description": "A discorc bot that fowards prompts tot he chat GPT API",
+  "description": "A discord bot that fowards prompts to chat GPT API",
   "main": "index.ts",
   "scripts": {
     "build": "npx tsc",
