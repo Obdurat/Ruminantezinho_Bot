@@ -99,3 +99,5 @@ Essa função se encontra em "./src/Data/GPT.ts".
 <a target="_blank" href="https://discord.com/developers/">Discord Developer portal</a>
 
 <a target="_blank" href="https://platform.openai.com/docs/introduction">OpenAI API Docs</a>
+
+<a target="_blank" href="https://discordjs.guide/#before-you-begin">Discord JS Guide</a>
