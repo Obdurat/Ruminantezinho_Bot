@@ -20,6 +20,7 @@ export type BuildParams = {
 
 const CommandBuilder = ({ name, description, optionsParam, editFunc }: BuildParams) => ({
   data: new SlashCommandBuilder()
+    .setDMPermission(true)
     .setName(name)
     .setDescription(description)
     .addStringOption(option => option
